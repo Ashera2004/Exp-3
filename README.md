@@ -26,25 +26,28 @@ Create database tables for Trains, Passengers, Tickets, and Schedules.
 
 ## USE CASE DIAGRAM:
 
-
+![image](https://github.com/Ashera2004/Exp-3/blob/main/2026-03-16%2012_46_45-Use%20Case%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 ## CLASS DIAGRAM:
 
-
+![image](https://github.com/Ashera2004/Exp-3/blob/main/2026-03-16%2012_48_49-Class%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 ## SEQUENCE DIAGRAM:
+
+![image](https://github.com/Ashera2004/Exp-3/blob/main/2026-03-16%2012_47_28-Sequence%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## COMMUNICATION DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-3/blob/main/2026-03-16%2012_48_23-Communication%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 ## ACTIVITY DIAGRAM:
 
-
+![image](https://github.com/Ashera2004/Exp-3/blob/main/2026-03-16%2012_50_07-%E2%80%A2%20Activity%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 ## PACKAGE DIAGRAM:
 
-
+![image](https://github.com/Ashera2004/Exp-3/blob/main/2026-03-16%2012_47_53-Package%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 # RESULT:
 
